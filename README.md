@@ -45,7 +45,7 @@ Profissional em transição estratégica para o mercado de tecnologia, com backg
 📫 **Conecte-se comigo**
 - [LinkedIn](https://www.linkedin.com/in/rrsantostech)
 - 📧 rrsantostech@gmail.com 
-- 🌍 Em breve: [rrsantostech.dev](https://rrsantostech.dev) *(portfólio pessoal)*
+- 🌍 Em breve: [rrsantostech.dev](https://sitebc.com.br) *(portfólio pessoal)*
 
 ---
 
