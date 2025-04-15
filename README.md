@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👨‍💻 Ricardo Rodrigues dos Santos
 
-<!--
-**rrsantostech/rrsantostech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder & Consultor em Transformação Digital  
+**Cloud | IA | Automação | Inovação Tecnológica**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Sobre mim**  
+Profissional em transição estratégica para o mercado de tecnologia, com background sólido em inovação, automação de processos e negócios digitais. Atualmente aprofundando conhecimentos em **Inteligência Artificial Generativa**, **Computação em Nuvem** e **Engenharia de Prompt** através do bootcamp promovido por **XP Inc. | Avanade | Microsoft**.
+
+---
+
+🚀 **Áreas de Foco**
+- Soluções Escaláveis com Inteligência Artificial
+- Arquitetura de Sistemas em Nuvem (AWS, Azure)
+- Automatização de Fluxos e Processos
+- Aprendizado Contínuo e Upskilling Tecnológico
+
+---
+
+🛠 **Habilidades Técnicas**
+- Cloud: AWS, Azure
+- Inteligência Artificial & Prompt Engineering
+- Git, GitHub & GitHub Copilot
+- Python (iniciante), JavaScript (Low-code)
+- Ferramentas de automação e produtividade
+
+---
+
+📚 **Formação em Andamento**
+- Bootcamp XP Inc. | Cloud com IA Generativa – *DIO / Microsoft / Avanade*
+- Atualizações constantes em IA, DevOps e Transformação Digital
+
+---
+
+📂 **Projetos em Destaque**
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| `ia-process-automation` | Protótipo de automação de processos com IA | Python, Azure, GitHub Copilot |
+| `cloud-ai-lab` | Laboratório de testes em ambientes AWS e Azure | AWS, Azure, Prompt Engineering |
+| `portfolio-website` | Site pessoal com GitHub Pages | HTML, CSS, GitHub Pages |
+
+---
+
+📫 **Conecte-se comigo**
+- [LinkedIn](https://www.linkedin.com/in/rrsantostech)
+- 📧 ricardorods@gmail.com *(exemplo de contato profissional)*
+- 🌍 Em breve: [rrsantostech.dev](https://rrsantostech.dev) *(portfólio pessoal)*
+
+---
+
+🧠 *“Transformar digitalmente é mais do que tecnologia — é sobre criar valor real com inovação e propósito.”*
+
